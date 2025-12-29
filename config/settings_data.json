@@ -1,0 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "storefront_hostname": "muozo-3c3a2f4d82452c0ee07b.o2.myshopify.dev",
+    "custom_redirects": "/cart > /winkelwagen",
+    "integrate_with_customer_accounts": true,
+    "content_for_index": []
+  }
+}
